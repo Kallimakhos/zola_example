@@ -1,7 +1,7 @@
 +++
 title = "Game design"
 description = "Page wikipedia à propos du Game design."
-date = 2024-09-13T08:05:00Z
+date = 2024-10-13T08:05:00Z
 draft = false
 
 [taxonomies]
