@@ -16,6 +16,10 @@
         <loc>https://Kallimakhos.github.io/zola_example/contact/</loc>
     </url>
     <url>
+        <loc>https://Kallimakhos.github.io/zola_example/exercice/</loc>
+        <lastmod>2024-12-04T08:05:00Z</lastmod>
+    </url>
+    <url>
         <loc>https://Kallimakhos.github.io/zola_example/game-design/</loc>
         <lastmod>2024-10-13T08:05:00Z</lastmod>
     </url>
@@ -67,6 +71,9 @@
     </url>
     <url>
         <loc>https://Kallimakhos.github.io/zola_example/tags/esquive-les-fleches-ou-meurs-pour-l-eternite/</loc>
+    </url>
+    <url>
+        <loc>https://Kallimakhos.github.io/zola_example/tags/exercice/</loc>
     </url>
     <url>
         <loc>https://Kallimakhos.github.io/zola_example/tags/game-next-door/</loc>
